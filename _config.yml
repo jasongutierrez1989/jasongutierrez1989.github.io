@@ -1,0 +1,20 @@
+# Site settings
+author: JASON GUTIERREZ
+title: 
+header-img: img/home-bg.png
+email: jasongutierrez1989@gmail.com
+copyright_name: JASON GUTIERREZ
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  jasongutierrez1989
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
