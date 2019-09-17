@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Like Magic!"
-date:       2019-09-17 02:21:32 +0000
+date:       2019-09-16 22:21:33 -0400
 permalink:  like_magic
 ---
 
